@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg"><img src="https://img.shields.io/badge/Discord-Coming_Soon-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/g87Hx9EM"><img src="https://img.shields.io/badge/Discord-w3-kit-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://docs.w3-kit.com"><img src="https://img.shields.io/badge/Docs-w3--kit.com-blue" alt="Docs" /></a>
   <a href="https://www.w3-kit.com"><img src="https://img.shields.io/badge/Website-w3--kit.com-green" alt="Website" /></a>
   <a href="https://www.npmjs.com/package/w3-kit"><img src="https://img.shields.io/npm/v/w3-kit?label=npm&color=red" alt="npm" /></a>
